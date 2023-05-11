@@ -1,8 +1,8 @@
 # Hello there, I'm Nicolas  :raised_hand_with_fingers_splayed: :computer:
-## > Python Developer
+## Python Developer
 
 ### About me
-:house:I'a from Argentina :argentina:
+:house: I'a from Argentina :argentina:
 ### Skills
 * Python
   - Django

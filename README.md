@@ -4,7 +4,11 @@
 ### About me
 :house:I'a from Argentina :argentina:
 ### Skills
-:snake: Python
+* Python
+  - Django
+* SQL
+* HTML
+* CSS
 
 ### Contact me
 * :email:oteronicolas3@gmail.com

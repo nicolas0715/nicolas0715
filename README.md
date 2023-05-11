@@ -1,8 +1,8 @@
 # Hello there, I'm Nicolas  :raised_hand_with_fingers_splayed: :computer:
-## Python Developer
+## Full Stack Python Developer from Buenos Aires, Argentina :house:
 
 ### About me
-:house: I'a from Argentina :argentina:
+
 ### Skills
 * Python
   - Django

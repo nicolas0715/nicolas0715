@@ -1,8 +1,8 @@
-#### Hello there, I'm Nicolas  👋
+# Hello there, I'm Nicolas  👋
 
 
-# About me
+### About me
 
-# Skills
+### Skills
 
-# Contact me
+### Contact me

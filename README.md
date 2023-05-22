@@ -13,3 +13,7 @@
 ### Contact me
 * :email:oteronicolas3@gmail.com
 * <a href='https://www.linkedin.com/in/nicolas-otero-2907b5149/' target="_blank">LinkedIn</a>
+
+
+
+[![Ejecución Diaria](https://github.com/nicolas0715/scrapping/actions/workflows/main.yml/badge.svg)](https://github.com/nicolas0715/scrapping/actions/workflows/main.yml)

@@ -16,4 +16,4 @@
 
 
 
-[![Ejecución Diaria](https://github.com/nicolas0715/scrapping/actions/workflows/main.yml/badge.svg)](https://github.com/nicolas0715/scrapping/actions/workflows/main.yml)
+[![Ejecución Diaria](https://github.com/nicolas0715/WebScrapping1/actions/workflows/main.yml/badge.svg)](https://github.com/nicolas0715/WebScrapping1/actions/workflows/main.yml)

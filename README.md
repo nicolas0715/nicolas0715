@@ -5,16 +5,20 @@
 * :printer:I like 3D Printing :soon:
 
 **Like to work with:**
-<a style="height:20px; width: 20px;" href="https://www.python.org/" title="Python"><img src="images/python.png" /></a>
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="CSS3 logo" title="CSS3" height="25" />
 <a href="https://www.python.org/" title="Python"><img src="images/mysql.png" /></a>
-<a href="https://www.python.org/" title="Python"><img src="images/html.png" /></a>
-<a href="https://www.python.org/" title="Python"><img src="images/css.png" /></a>
+<img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" />
+<img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" />
+<img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" />
+DJANGO
 
 **What I am learning**
-[<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />][tech_tools_anchor]
+<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />
+<img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="25" />
+AMAZON WEB SERVICES
 
 **What I am interested in learning**
-
+AMAZON WEB SERVICES
 
 ### Contact me
 * :email:oteronicolas3@gmail.com

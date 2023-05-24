@@ -4,7 +4,12 @@
 * :computer:I’m currently looking for my first IT job.
 
 **Currently working with:**
-<a href="https://www.python.org/" title="Python"><img src="icons/python.png" /></a>
+<a href="https://www.python.org/" title="Python"><img src="python.png" /></a>
+
+**What I am currently learning**
+
+**What I am interested in learning**
+
 
 ### Contact me
 * :email:oteronicolas3@gmail.com

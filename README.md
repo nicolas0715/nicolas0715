@@ -11,7 +11,7 @@
 <a href="https://www.python.org/" title="Python"><img src="images/css.png" /></a>
 
 **What I am learning**
-<a href="https://www.python.org/" title="Python"><img src="images/javascript.png" /></a>
+[<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />][tech_tools_anchor]
 
 **What I am interested in learning**
 

@@ -1,14 +1,10 @@
-# Hello there, I'm Nicolas  :raised_hand_with_fingers_splayed: :computer:
-## Full Stack Python Developer from Buenos Aires, Argentina :house:
+# Hello there, I'm Nicolas  :raised_hand_with_fingers_splayed:
 
-### About me
+* :house:I’m currently living at Buenos Aires, Argentina.
+* :computer:I’m currently looking for my first IT job.
 
-### Skills
-* Python
-  - Django
-* SQL
-* HTML
-* CSS
+**Currently working with:**
+<a href="https://www.python.org/" title="Python"><img src="icons/python.png" /></a>
 
 ### Contact me
 * :email:oteronicolas3@gmail.com

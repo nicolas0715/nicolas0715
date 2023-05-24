@@ -5,7 +5,7 @@
 * :printer:I like 3D Printing :soon:
 
 **Like to work with:**
-<a href="https://www.python.org/" title="Python"><img src="images/python.png" /></a>
+<a style='height:20px;' href="https://www.python.org/" title="Python"><img src="images/python.png" /></a>
 <a href="https://www.python.org/" title="Python"><img src="images/mysql.png" /></a>
 <a href="https://www.python.org/" title="Python"><img src="images/html.png" /></a>
 <a href="https://www.python.org/" title="Python"><img src="images/css.png" /></a>

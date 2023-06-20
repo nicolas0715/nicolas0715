@@ -1,9 +1,9 @@
 # Hello there, I'm Nicolas  :raised_hand_with_fingers_splayed:
 
-* :earth_americas:I’m currently living at Buenos Aires, Argentina  ⭐⭐⭐
-* :computer:I’m currently looking for my first IT job.
-* :printer:I like 3D Printing :soon:
-* :desktop_computer:Portfolio: https://nicolas0715.github.io/portfolio/
+* :earth_americas: I’m currently living at Buenos Aires, Argentina  ⭐⭐⭐
+* :computer: I’m currently looking for my first IT job.
+* :printer: I like 3D Printing :soon:
+* :desktop_computer: Portfolio: https://nicolas0715.github.io/portfolio/
 
 ## Like to work with:  
 

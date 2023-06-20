@@ -3,7 +3,7 @@
 * :earth_americas:I’m currently living at Buenos Aires, Argentina  ⭐⭐⭐
 * :computer:I’m currently looking for my first IT job.
 * :printer:I like 3D Printing :soon:
-* Portfolio: https://nicolas0715.github.io/portfolio/
+* :desktop_computer:Portfolio: https://nicolas0715.github.io/portfolio/
 
 ## Like to work with:  
 

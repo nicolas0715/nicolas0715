@@ -4,7 +4,7 @@
 * :computer: I’m currently looking for my first IT job.
 * :printer: I like 3D Printing :soon:
 * :desktop_computer: Portfolio: https://nicolas0715.github.io/portfolio/
-* :octocat: Git in Touch 
+* :octocat: Git in Touch [Enviar mensaje](https://github.com/nicolas0715/reponame/issues/new?assignees=nicolas0715&title=Mensaje%20directo)
 
 ## Like to work with:  
 

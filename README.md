@@ -4,6 +4,7 @@
 * :computer: I’m currently looking for my first IT job.
 * :printer: I like 3D Printing :soon:
 * :desktop_computer: Portfolio: https://nicolas0715.github.io/portfolio/
+* :octocat: Git in Touch 
 
 ## Like to work with:  
 

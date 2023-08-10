@@ -41,7 +41,7 @@
 
 ![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)
 
-#### Proyecto de Web Scrapping desarrollado en Farmacia Totino
+#### Proyecto de Web Scrapping desarrollado en Farmacia Totino:
 [![Ejecución Diaria](https://github.com/nicolas0715/WebScrapping1/actions/workflows/main.yml/badge.svg)](https://github.com/nicolas0715/WebScrapping1/actions/workflows/main.yml)
 
 [![Pelicula Diaria](https://github.com/nicolas0715/Peliculas/actions/workflows/main.yml/badge.svg)](https://github.com/nicolas0715/Peliculas/actions/workflows/main.yml) 

@@ -1,4 +1,4 @@
-# Hello there, I'm Nicolas  :raised_hand_with_fingers_splayed:
+<center># Hello there, I'm Nicolas  :raised_hand_with_fingers_splayed:</center>
 
 * :earth_americas: I’m currently living at Buenos Aires, Argentina  ⭐⭐⭐
 * :computer: I’m currently looking for my first IT job.

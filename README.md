@@ -1,4 +1,4 @@
-<center># Hello there, I'm Nicolas  :raised_hand_with_fingers_splayed:</center>
+# Hello there, I'm Nicolas  :raised_hand_with_fingers_splayed:
 
 * :earth_americas: I’m currently living at Buenos Aires, Argentina  ⭐⭐⭐
 * :computer: I’m currently looking for my first IT job.
@@ -6,7 +6,7 @@
 * :desktop_computer: [Portfolio](https://nicolas0715.github.io/portfolio/)
 * :octocat:[Git in Touch](https://github.com/nicolas0715/nicolas0715/issues/new)
 
-## Like to work with:  
+## <center>Like to work with:  </center>
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)

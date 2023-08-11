@@ -6,11 +6,6 @@
 * :desktop_computer: [Portfolio](https://nicolas0715.github.io/portfolio/)
 * :octocat:[Git in Touch](https://github.com/nicolas0715/nicolas0715/issues/new)
 
-* 
-```{css, echo=FALSE}
-   h1, h2, h3 { text-align: center; }
-```
-
 <h1>Like to work with:</h1>
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)

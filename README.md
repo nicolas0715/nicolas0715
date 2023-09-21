@@ -5,7 +5,7 @@
 * :computer: I’m currently looking for my first IT job.
 * :printer: I like 3D Printing :soon:
 * :desktop_computer: [Portfolio](https://nicolas0715.github.io/portfolio/)
-* :octocat:[Git in Touch](https://github.com/nicolas0715/nicolas0715/issues/new)
+* :octocat: [Git in Touch](https://github.com/nicolas0715/nicolas0715/issues/new)
 
 <h1>Like to work with:</h1>
 
@@ -42,5 +42,5 @@
 
 ![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)
 
-#### Proyecto de Web Scrapping desarrollado en Farmacia Totino:
+#### Proyecto de Web Scrapping desarrollado en Farmacia Totino: [Ver Mas](https://github.com/nicolas0715/WebScrapping1)
 [![Ejecución Diaria](https://github.com/nicolas0715/WebScrapping1/actions/workflows/main.yml/badge.svg)](https://github.com/nicolas0715/WebScrapping1/actions/workflows/main.yml)

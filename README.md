@@ -44,5 +44,3 @@
 
 #### Proyecto de Web Scrapping desarrollado en Farmacia Totino:
 [![Ejecución Diaria](https://github.com/nicolas0715/WebScrapping1/actions/workflows/main.yml/badge.svg)](https://github.com/nicolas0715/WebScrapping1/actions/workflows/main.yml)
-
-[![Pelicula Diaria](https://github.com/nicolas0715/Peliculas/actions/workflows/main.yml/badge.svg)](https://github.com/nicolas0715/Peliculas/actions/workflows/main.yml) 

@@ -6,7 +6,7 @@
 * :printer: I like 3D Printing :soon:
 * :desktop_computer: Link a mi [Portfolio](https://nicolas0715.github.io/portfolio/)
 * :octocat: [Git in Touch](https://github.com/nicolas0715/nicolas0715/issues/new)
-* :open_book: Para descargar mi [Curriculum]([https://drive.google.com/drive/folders/1BqaCW_f_4eFJ_46tdoBtXpLpjLeb8lGM](https://drive.google.com/file/d/1ixrCDXQENpNRdQuf3KP7IUagb3QX7Udl/view?usp=drive_link))
+* :open_book: Para descargar mi [Curriculum](https://drive.google.com/file/d/1ixrCDXQENpNRdQuf3KP7IUagb3QX7Udl/view?usp=drive_link)
 
 <h1>Like to work with:</h1>
 

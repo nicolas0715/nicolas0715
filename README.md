@@ -4,7 +4,7 @@
 * :earth_americas: I’m currently living at Sidney, Australia  :bridge_at_night:
 * :computer: I’m currently looking for my first IT job.
 * :printer: I like 3D Printing :soon:
-* :desktop_computer: [Portfolio](https://nicolas0715.github.io/portfolio/)
+* :desktop_computer: Link a mi [Portfolio](https://nicolas0715.github.io/portfolio/)
 * :octocat: [Git in Touch](https://github.com/nicolas0715/nicolas0715/issues/new)
 
 <h1>Like to work with:</h1>

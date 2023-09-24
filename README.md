@@ -2,7 +2,7 @@
 
 * :house: I'm from Buenos Aires, Argentina  ⭐⭐⭐
 * :earth_americas: I’m currently living at Sidney, Australia  :bridge_at_night:
-* :computer: I’m currently looking for my first IT job.
+* :computer: I am currently looking for a place to develop my skills.
 * :printer: I like 3D Printing :soon:
 * :desktop_computer: Link a mi [Portfolio](https://nicolas0715.github.io/portfolio/)
 * :octocat: [Git in Touch](https://github.com/nicolas0715/nicolas0715/issues/new)

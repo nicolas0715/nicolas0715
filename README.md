@@ -5,7 +5,7 @@
 * :computer: I am currently looking for a place to develop my skills.
 * :printer: I like 3D Printing :soon:
 * :desktop_computer: Link a mi [Portfolio](https://nicolas0715.github.io/portfolio/)
-* :open_book: Para ver mi [Curriculum](https://drive.google.com/file/d/1ixrCDXQENpNRdQuf3KP7IUagb3QX7Udl/view?usp=drive_link)
+* :open_book: Para ver mi [Curriculum](https://drive.google.com/file/d/1wUdo5h6LB-KHkPf9QKcJqUVLYHrWa7QB/view?usp=drive_link)
 * :briefcase: Link a mi [LinkedIn](https://www.linkedin.com/in/nicolas-otero-2907b5149/)
 * :octocat: [Git in Touch](https://github.com/nicolas0715/nicolas0715/issues/new)
 
